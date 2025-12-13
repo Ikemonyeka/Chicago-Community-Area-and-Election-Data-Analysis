@@ -5,7 +5,7 @@ This repository contains the data and code for the CS579 final project:
 
 ## Contents
 - data/: raw and processed datasets
-- notebooks/: analysis and visualization notebooks
+- code/: analysis and visualization notebooks
 
 ## Requirements
 Python 3.12, geopandas, networkx, sklearn, scipy
