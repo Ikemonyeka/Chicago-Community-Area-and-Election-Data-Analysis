@@ -1,6 +1,6 @@
 # Chicago Community Area & Election Data Analysis
 
-This repository contains the data and code for the CS579 final project:
+This repository contains the data and code for the Chicago Community Area & Election Data Analysis:
 "Political Communities versus Socioeconomic Communities"
 
 ## Contents
